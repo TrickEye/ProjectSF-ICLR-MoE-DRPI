@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+.DS_Store
+
+# Models, caches, credentials, and local editor state
+models/
+.cache/
+.env
+*.token
+token.md
+.obsidian/workspace*.json
+
+# Generated experiment data. Keep directory placeholders and summaries explicit.
+results/raw/*
+!results/raw/.gitkeep
+results/summary/*
+!results/summary/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+

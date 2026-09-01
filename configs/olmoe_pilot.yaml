@@ -1,0 +1,30 @@
+schema_version: drpi-config-v1
+model:
+  id: allenai/OLMoE-1B-7B-0924
+  revision: 6d84c48581ece794365f2b8e9cfb043c68ade9c5
+  device: mps
+  dtype: bfloat16
+  quantization: none
+  local_files_only: true
+runtime:
+  batch_size: 1
+  max_length: 128
+  use_cache: false
+  seed: 1729
+experiment:
+  injection_layers: [2, 4, 6, 8, 10, 12, 14]
+  alphas: [0.01, 0.03, 0.10, 0.30]
+  direction_seeds: [1729, 1730, 1731, 1732, 1733, 1734, 1735, 1736]
+  horizons: [1, 4, 8]
+  dangerous_ranks: [4, 8, 16, 32]
+  blind_rtol: 1.0e-6
+  finite_difference_epsilons: [1.0e-4, 3.0e-4, 1.0e-3, 3.0e-3]
+data:
+  prompts_jsonl: data/prompts.jsonl
+  counterfactuals_jsonl: data/counterfactuals.jsonl
+  split_seed: 1729
+outputs:
+  raw_dir: results/raw
+  summary_dir: results/summary
+  artifact_dir: artifacts
+

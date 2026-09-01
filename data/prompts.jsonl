@@ -1,0 +1,400 @@
+{"prompt_id": "cf-0000", "split": "validation", "text": "Record 0: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0001", "split": "calibration", "text": "Record 1: the marked box is red. Its color is"}
+{"prompt_id": "cf-0002", "split": "test", "text": "Record 2: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0003", "split": "calibration", "text": "Record 3: the marked box is red. Its color is"}
+{"prompt_id": "cf-0004", "split": "test", "text": "Record 4: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0005", "split": "test", "text": "Record 5: the marked box is red. Its color is"}
+{"prompt_id": "cf-0006", "split": "test", "text": "Record 6: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0007", "split": "validation", "text": "Record 7: the marked box is red. Its color is"}
+{"prompt_id": "cf-0008", "split": "validation", "text": "Record 8: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0009", "split": "validation", "text": "Record 9: the marked box is red. Its color is"}
+{"prompt_id": "cf-0010", "split": "validation", "text": "Record 10: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0011", "split": "validation", "text": "Record 11: the marked box is green. Its color is"}
+{"prompt_id": "cf-0012", "split": "test", "text": "Record 12: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0013", "split": "validation", "text": "Record 13: the marked box is green. Its color is"}
+{"prompt_id": "cf-0014", "split": "calibration", "text": "Record 14: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0015", "split": "calibration", "text": "Record 15: the marked box is green. Its color is"}
+{"prompt_id": "cf-0016", "split": "validation", "text": "Record 16: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0017", "split": "calibration", "text": "Record 17: the marked box is green. Its color is"}
+{"prompt_id": "cf-0018", "split": "calibration", "text": "Record 18: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0019", "split": "train", "text": "Record 19: the marked box is green. Its color is"}
+{"prompt_id": "cf-0020", "split": "test", "text": "Record 20: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0021", "split": "train", "text": "Record 21: the marked box is black. Its color is"}
+{"prompt_id": "cf-0022", "split": "calibration", "text": "Record 22: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0023", "split": "train", "text": "Record 23: the marked box is black. Its color is"}
+{"prompt_id": "cf-0024", "split": "train", "text": "Record 24: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0025", "split": "validation", "text": "Record 25: the marked box is black. Its color is"}
+{"prompt_id": "cf-0026", "split": "train", "text": "Record 26: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0027", "split": "validation", "text": "Record 27: the marked box is black. Its color is"}
+{"prompt_id": "cf-0028", "split": "calibration", "text": "Record 28: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0029", "split": "train", "text": "Record 29: the marked box is black. Its color is"}
+{"prompt_id": "cf-0030", "split": "test", "text": "Record 30: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0031", "split": "train", "text": "Record 31: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0032", "split": "test", "text": "Record 32: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0033", "split": "validation", "text": "Record 33: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0034", "split": "train", "text": "Record 34: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0035", "split": "test", "text": "Record 35: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0036", "split": "calibration", "text": "Record 36: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0037", "split": "test", "text": "Record 37: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0038", "split": "calibration", "text": "Record 38: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0039", "split": "validation", "text": "Record 39: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0040", "split": "validation", "text": "Record 40: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0041", "split": "validation", "text": "Record 41: the marked box is red. Its color is"}
+{"prompt_id": "cf-0042", "split": "calibration", "text": "Record 42: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0043", "split": "test", "text": "Record 43: the marked box is red. Its color is"}
+{"prompt_id": "cf-0044", "split": "calibration", "text": "Record 44: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0045", "split": "test", "text": "Record 45: the marked box is red. Its color is"}
+{"prompt_id": "cf-0046", "split": "test", "text": "Record 46: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0047", "split": "calibration", "text": "Record 47: the marked box is red. Its color is"}
+{"prompt_id": "cf-0048", "split": "test", "text": "Record 48: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0049", "split": "calibration", "text": "Record 49: the marked box is red. Its color is"}
+{"prompt_id": "cf-0050", "split": "train", "text": "Record 50: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0051", "split": "calibration", "text": "Record 51: the marked box is green. Its color is"}
+{"prompt_id": "cf-0052", "split": "calibration", "text": "Record 52: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0053", "split": "train", "text": "Record 53: the marked box is green. Its color is"}
+{"prompt_id": "cf-0054", "split": "validation", "text": "Record 54: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0055", "split": "validation", "text": "Record 55: the marked box is green. Its color is"}
+{"prompt_id": "cf-0056", "split": "train", "text": "Record 56: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0057", "split": "test", "text": "Record 57: the marked box is green. Its color is"}
+{"prompt_id": "cf-0058", "split": "train", "text": "Record 58: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0059", "split": "validation", "text": "Record 59: the marked box is green. Its color is"}
+{"prompt_id": "cf-0060", "split": "train", "text": "Record 60: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0061", "split": "calibration", "text": "Record 61: the marked box is black. Its color is"}
+{"prompt_id": "cf-0062", "split": "test", "text": "Record 62: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0063", "split": "calibration", "text": "Record 63: the marked box is black. Its color is"}
+{"prompt_id": "cf-0064", "split": "calibration", "text": "Record 64: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0065", "split": "calibration", "text": "Record 65: the marked box is black. Its color is"}
+{"prompt_id": "cf-0066", "split": "validation", "text": "Record 66: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0067", "split": "train", "text": "Record 67: the marked box is black. Its color is"}
+{"prompt_id": "cf-0068", "split": "validation", "text": "Record 68: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0069", "split": "calibration", "text": "Record 69: the marked box is black. Its color is"}
+{"prompt_id": "cf-0070", "split": "test", "text": "Record 70: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0071", "split": "test", "text": "Record 71: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0072", "split": "calibration", "text": "Record 72: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0073", "split": "train", "text": "Record 73: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0074", "split": "train", "text": "Record 74: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0075", "split": "test", "text": "Record 75: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0076", "split": "test", "text": "Record 76: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0077", "split": "calibration", "text": "Record 77: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0078", "split": "calibration", "text": "Record 78: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0079", "split": "test", "text": "Record 79: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0080", "split": "test", "text": "Record 80: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0081", "split": "calibration", "text": "Record 81: the marked box is red. Its color is"}
+{"prompt_id": "cf-0082", "split": "validation", "text": "Record 82: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0083", "split": "validation", "text": "Record 83: the marked box is red. Its color is"}
+{"prompt_id": "cf-0084", "split": "validation", "text": "Record 84: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0085", "split": "test", "text": "Record 85: the marked box is red. Its color is"}
+{"prompt_id": "cf-0086", "split": "train", "text": "Record 86: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0087", "split": "train", "text": "Record 87: the marked box is red. Its color is"}
+{"prompt_id": "cf-0088", "split": "train", "text": "Record 88: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0089", "split": "test", "text": "Record 89: the marked box is red. Its color is"}
+{"prompt_id": "cf-0090", "split": "validation", "text": "Record 90: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0091", "split": "test", "text": "Record 91: the marked box is green. Its color is"}
+{"prompt_id": "cf-0092", "split": "validation", "text": "Record 92: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0093", "split": "validation", "text": "Record 93: the marked box is green. Its color is"}
+{"prompt_id": "cf-0094", "split": "test", "text": "Record 94: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0095", "split": "calibration", "text": "Record 95: the marked box is green. Its color is"}
+{"prompt_id": "cf-0096", "split": "test", "text": "Record 96: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0097", "split": "calibration", "text": "Record 97: the marked box is green. Its color is"}
+{"prompt_id": "cf-0098", "split": "train", "text": "Record 98: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0099", "split": "train", "text": "Record 99: the marked box is green. Its color is"}
+{"prompt_id": "cf-0100", "split": "test", "text": "Record 100: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0101", "split": "calibration", "text": "Record 101: the marked box is black. Its color is"}
+{"prompt_id": "cf-0102", "split": "validation", "text": "Record 102: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0103", "split": "test", "text": "Record 103: the marked box is black. Its color is"}
+{"prompt_id": "cf-0104", "split": "test", "text": "Record 104: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0105", "split": "test", "text": "Record 105: the marked box is black. Its color is"}
+{"prompt_id": "cf-0106", "split": "calibration", "text": "Record 106: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0107", "split": "calibration", "text": "Record 107: the marked box is black. Its color is"}
+{"prompt_id": "cf-0108", "split": "calibration", "text": "Record 108: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0109", "split": "calibration", "text": "Record 109: the marked box is black. Its color is"}
+{"prompt_id": "cf-0110", "split": "test", "text": "Record 110: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0111", "split": "train", "text": "Record 111: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0112", "split": "calibration", "text": "Record 112: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0113", "split": "validation", "text": "Record 113: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0114", "split": "train", "text": "Record 114: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0115", "split": "train", "text": "Record 115: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0116", "split": "test", "text": "Record 116: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0117", "split": "calibration", "text": "Record 117: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0118", "split": "test", "text": "Record 118: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0119", "split": "test", "text": "Record 119: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0120", "split": "validation", "text": "Record 120: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0121", "split": "calibration", "text": "Record 121: the marked box is red. Its color is"}
+{"prompt_id": "cf-0122", "split": "calibration", "text": "Record 122: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0123", "split": "calibration", "text": "Record 123: the marked box is red. Its color is"}
+{"prompt_id": "cf-0124", "split": "train", "text": "Record 124: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0125", "split": "train", "text": "Record 125: the marked box is red. Its color is"}
+{"prompt_id": "cf-0126", "split": "test", "text": "Record 126: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0127", "split": "calibration", "text": "Record 127: the marked box is red. Its color is"}
+{"prompt_id": "cf-0128", "split": "train", "text": "Record 128: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0129", "split": "validation", "text": "Record 129: the marked box is red. Its color is"}
+{"prompt_id": "cf-0130", "split": "train", "text": "Record 130: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0131", "split": "test", "text": "Record 131: the marked box is green. Its color is"}
+{"prompt_id": "cf-0132", "split": "train", "text": "Record 132: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0133", "split": "calibration", "text": "Record 133: the marked box is green. Its color is"}
+{"prompt_id": "cf-0134", "split": "calibration", "text": "Record 134: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0135", "split": "validation", "text": "Record 135: the marked box is green. Its color is"}
+{"prompt_id": "cf-0136", "split": "validation", "text": "Record 136: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0137", "split": "train", "text": "Record 137: the marked box is green. Its color is"}
+{"prompt_id": "cf-0138", "split": "test", "text": "Record 138: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0139", "split": "calibration", "text": "Record 139: the marked box is green. Its color is"}
+{"prompt_id": "cf-0140", "split": "test", "text": "Record 140: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0141", "split": "calibration", "text": "Record 141: the marked box is black. Its color is"}
+{"prompt_id": "cf-0142", "split": "calibration", "text": "Record 142: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0143", "split": "train", "text": "Record 143: the marked box is black. Its color is"}
+{"prompt_id": "cf-0144", "split": "validation", "text": "Record 144: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0145", "split": "calibration", "text": "Record 145: the marked box is black. Its color is"}
+{"prompt_id": "cf-0146", "split": "calibration", "text": "Record 146: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0147", "split": "test", "text": "Record 147: the marked box is black. Its color is"}
+{"prompt_id": "cf-0148", "split": "calibration", "text": "Record 148: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0149", "split": "train", "text": "Record 149: the marked box is black. Its color is"}
+{"prompt_id": "cf-0150", "split": "calibration", "text": "Record 150: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0151", "split": "validation", "text": "Record 151: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0152", "split": "train", "text": "Record 152: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0153", "split": "calibration", "text": "Record 153: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0154", "split": "validation", "text": "Record 154: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0155", "split": "calibration", "text": "Record 155: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0156", "split": "calibration", "text": "Record 156: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0157", "split": "calibration", "text": "Record 157: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0158", "split": "validation", "text": "Record 158: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0159", "split": "test", "text": "Record 159: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0160", "split": "calibration", "text": "Record 160: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0161", "split": "validation", "text": "Record 161: the marked box is red. Its color is"}
+{"prompt_id": "cf-0162", "split": "calibration", "text": "Record 162: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0163", "split": "train", "text": "Record 163: the marked box is red. Its color is"}
+{"prompt_id": "cf-0164", "split": "train", "text": "Record 164: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0165", "split": "test", "text": "Record 165: the marked box is red. Its color is"}
+{"prompt_id": "cf-0166", "split": "train", "text": "Record 166: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0167", "split": "calibration", "text": "Record 167: the marked box is red. Its color is"}
+{"prompt_id": "cf-0168", "split": "validation", "text": "Record 168: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0169", "split": "train", "text": "Record 169: the marked box is red. Its color is"}
+{"prompt_id": "cf-0170", "split": "test", "text": "Record 170: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0171", "split": "train", "text": "Record 171: the marked box is green. Its color is"}
+{"prompt_id": "cf-0172", "split": "calibration", "text": "Record 172: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0173", "split": "calibration", "text": "Record 173: the marked box is green. Its color is"}
+{"prompt_id": "cf-0174", "split": "calibration", "text": "Record 174: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0175", "split": "train", "text": "Record 175: the marked box is green. Its color is"}
+{"prompt_id": "cf-0176", "split": "test", "text": "Record 176: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0177", "split": "validation", "text": "Record 177: the marked box is green. Its color is"}
+{"prompt_id": "cf-0178", "split": "train", "text": "Record 178: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0179", "split": "train", "text": "Record 179: the marked box is green. Its color is"}
+{"prompt_id": "cf-0180", "split": "test", "text": "Record 180: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0181", "split": "test", "text": "Record 181: the marked box is black. Its color is"}
+{"prompt_id": "cf-0182", "split": "test", "text": "Record 182: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0183", "split": "train", "text": "Record 183: the marked box is black. Its color is"}
+{"prompt_id": "cf-0184", "split": "validation", "text": "Record 184: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0185", "split": "test", "text": "Record 185: the marked box is black. Its color is"}
+{"prompt_id": "cf-0186", "split": "test", "text": "Record 186: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0187", "split": "validation", "text": "Record 187: the marked box is black. Its color is"}
+{"prompt_id": "cf-0188", "split": "train", "text": "Record 188: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0189", "split": "validation", "text": "Record 189: the marked box is black. Its color is"}
+{"prompt_id": "cf-0190", "split": "test", "text": "Record 190: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0191", "split": "calibration", "text": "Record 191: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0192", "split": "calibration", "text": "Record 192: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0193", "split": "train", "text": "Record 193: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0194", "split": "validation", "text": "Record 194: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0195", "split": "validation", "text": "Record 195: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0196", "split": "test", "text": "Record 196: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0197", "split": "calibration", "text": "Record 197: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0198", "split": "calibration", "text": "Record 198: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0199", "split": "calibration", "text": "Record 199: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0200", "split": "calibration", "text": "Record 200: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0201", "split": "calibration", "text": "Record 201: the marked box is red. Its color is"}
+{"prompt_id": "cf-0202", "split": "validation", "text": "Record 202: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0203", "split": "validation", "text": "Record 203: the marked box is red. Its color is"}
+{"prompt_id": "cf-0204", "split": "validation", "text": "Record 204: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0205", "split": "validation", "text": "Record 205: the marked box is red. Its color is"}
+{"prompt_id": "cf-0206", "split": "train", "text": "Record 206: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0207", "split": "validation", "text": "Record 207: the marked box is red. Its color is"}
+{"prompt_id": "cf-0208", "split": "train", "text": "Record 208: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0209", "split": "test", "text": "Record 209: the marked box is red. Its color is"}
+{"prompt_id": "cf-0210", "split": "calibration", "text": "Record 210: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0211", "split": "validation", "text": "Record 211: the marked box is green. Its color is"}
+{"prompt_id": "cf-0212", "split": "calibration", "text": "Record 212: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0213", "split": "train", "text": "Record 213: the marked box is green. Its color is"}
+{"prompt_id": "cf-0214", "split": "train", "text": "Record 214: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0215", "split": "train", "text": "Record 215: the marked box is green. Its color is"}
+{"prompt_id": "cf-0216", "split": "test", "text": "Record 216: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0217", "split": "train", "text": "Record 217: the marked box is green. Its color is"}
+{"prompt_id": "cf-0218", "split": "test", "text": "Record 218: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0219", "split": "calibration", "text": "Record 219: the marked box is green. Its color is"}
+{"prompt_id": "cf-0220", "split": "validation", "text": "Record 220: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0221", "split": "train", "text": "Record 221: the marked box is black. Its color is"}
+{"prompt_id": "cf-0222", "split": "calibration", "text": "Record 222: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0223", "split": "train", "text": "Record 223: the marked box is black. Its color is"}
+{"prompt_id": "cf-0224", "split": "test", "text": "Record 224: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0225", "split": "test", "text": "Record 225: the marked box is black. Its color is"}
+{"prompt_id": "cf-0226", "split": "calibration", "text": "Record 226: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0227", "split": "calibration", "text": "Record 227: the marked box is black. Its color is"}
+{"prompt_id": "cf-0228", "split": "validation", "text": "Record 228: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0229", "split": "test", "text": "Record 229: the marked box is black. Its color is"}
+{"prompt_id": "cf-0230", "split": "test", "text": "Record 230: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0231", "split": "train", "text": "Record 231: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0232", "split": "test", "text": "Record 232: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0233", "split": "calibration", "text": "Record 233: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0234", "split": "train", "text": "Record 234: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0235", "split": "validation", "text": "Record 235: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0236", "split": "train", "text": "Record 236: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0237", "split": "calibration", "text": "Record 237: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0238", "split": "calibration", "text": "Record 238: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0239", "split": "validation", "text": "Record 239: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0240", "split": "validation", "text": "Record 240: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0241", "split": "train", "text": "Record 241: the marked box is red. Its color is"}
+{"prompt_id": "cf-0242", "split": "train", "text": "Record 242: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0243", "split": "validation", "text": "Record 243: the marked box is red. Its color is"}
+{"prompt_id": "cf-0244", "split": "test", "text": "Record 244: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0245", "split": "train", "text": "Record 245: the marked box is red. Its color is"}
+{"prompt_id": "cf-0246", "split": "calibration", "text": "Record 246: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0247", "split": "train", "text": "Record 247: the marked box is red. Its color is"}
+{"prompt_id": "cf-0248", "split": "test", "text": "Record 248: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0249", "split": "test", "text": "Record 249: the marked box is red. Its color is"}
+{"prompt_id": "cf-0250", "split": "validation", "text": "Record 250: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0251", "split": "train", "text": "Record 251: the marked box is green. Its color is"}
+{"prompt_id": "cf-0252", "split": "validation", "text": "Record 252: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0253", "split": "validation", "text": "Record 253: the marked box is green. Its color is"}
+{"prompt_id": "cf-0254", "split": "calibration", "text": "Record 254: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0255", "split": "train", "text": "Record 255: the marked box is green. Its color is"}
+{"prompt_id": "cf-0256", "split": "test", "text": "Record 256: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0257", "split": "train", "text": "Record 257: the marked box is green. Its color is"}
+{"prompt_id": "cf-0258", "split": "test", "text": "Record 258: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0259", "split": "train", "text": "Record 259: the marked box is green. Its color is"}
+{"prompt_id": "cf-0260", "split": "test", "text": "Record 260: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0261", "split": "test", "text": "Record 261: the marked box is black. Its color is"}
+{"prompt_id": "cf-0262", "split": "validation", "text": "Record 262: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0263", "split": "train", "text": "Record 263: the marked box is black. Its color is"}
+{"prompt_id": "cf-0264", "split": "validation", "text": "Record 264: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0265", "split": "validation", "text": "Record 265: the marked box is black. Its color is"}
+{"prompt_id": "cf-0266", "split": "test", "text": "Record 266: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0267", "split": "train", "text": "Record 267: the marked box is black. Its color is"}
+{"prompt_id": "cf-0268", "split": "train", "text": "Record 268: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0269", "split": "calibration", "text": "Record 269: the marked box is black. Its color is"}
+{"prompt_id": "cf-0270", "split": "calibration", "text": "Record 270: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0271", "split": "calibration", "text": "Record 271: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0272", "split": "test", "text": "Record 272: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0273", "split": "test", "text": "Record 273: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0274", "split": "validation", "text": "Record 274: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0275", "split": "train", "text": "Record 275: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0276", "split": "test", "text": "Record 276: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0277", "split": "test", "text": "Record 277: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0278", "split": "test", "text": "Record 278: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0279", "split": "train", "text": "Record 279: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0280", "split": "test", "text": "Record 280: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0281", "split": "validation", "text": "Record 281: the marked box is red. Its color is"}
+{"prompt_id": "cf-0282", "split": "calibration", "text": "Record 282: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0283", "split": "validation", "text": "Record 283: the marked box is red. Its color is"}
+{"prompt_id": "cf-0284", "split": "calibration", "text": "Record 284: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0285", "split": "train", "text": "Record 285: the marked box is red. Its color is"}
+{"prompt_id": "cf-0286", "split": "calibration", "text": "Record 286: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0287", "split": "test", "text": "Record 287: the marked box is red. Its color is"}
+{"prompt_id": "cf-0288", "split": "validation", "text": "Record 288: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0289", "split": "validation", "text": "Record 289: the marked box is red. Its color is"}
+{"prompt_id": "cf-0290", "split": "validation", "text": "Record 290: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0291", "split": "validation", "text": "Record 291: the marked box is green. Its color is"}
+{"prompt_id": "cf-0292", "split": "train", "text": "Record 292: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0293", "split": "calibration", "text": "Record 293: the marked box is green. Its color is"}
+{"prompt_id": "cf-0294", "split": "calibration", "text": "Record 294: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0295", "split": "test", "text": "Record 295: the marked box is green. Its color is"}
+{"prompt_id": "cf-0296", "split": "validation", "text": "Record 296: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0297", "split": "calibration", "text": "Record 297: the marked box is green. Its color is"}
+{"prompt_id": "cf-0298", "split": "calibration", "text": "Record 298: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0299", "split": "validation", "text": "Record 299: the marked box is green. Its color is"}
+{"prompt_id": "cf-0300", "split": "train", "text": "Record 300: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0301", "split": "calibration", "text": "Record 301: the marked box is black. Its color is"}
+{"prompt_id": "cf-0302", "split": "validation", "text": "Record 302: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0303", "split": "test", "text": "Record 303: the marked box is black. Its color is"}
+{"prompt_id": "cf-0304", "split": "test", "text": "Record 304: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0305", "split": "validation", "text": "Record 305: the marked box is black. Its color is"}
+{"prompt_id": "cf-0306", "split": "calibration", "text": "Record 306: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0307", "split": "train", "text": "Record 307: the marked box is black. Its color is"}
+{"prompt_id": "cf-0308", "split": "test", "text": "Record 308: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0309", "split": "validation", "text": "Record 309: the marked box is black. Its color is"}
+{"prompt_id": "cf-0310", "split": "train", "text": "Record 310: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0311", "split": "validation", "text": "Record 311: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0312", "split": "calibration", "text": "Record 312: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0313", "split": "validation", "text": "Record 313: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0314", "split": "test", "text": "Record 314: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0315", "split": "calibration", "text": "Record 315: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0316", "split": "test", "text": "Record 316: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0317", "split": "train", "text": "Record 317: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0318", "split": "validation", "text": "Record 318: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0319", "split": "train", "text": "Record 319: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0320", "split": "train", "text": "Record 320: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0321", "split": "test", "text": "Record 321: the marked box is red. Its color is"}
+{"prompt_id": "cf-0322", "split": "train", "text": "Record 322: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0323", "split": "train", "text": "Record 323: the marked box is red. Its color is"}
+{"prompt_id": "cf-0324", "split": "test", "text": "Record 324: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0325", "split": "validation", "text": "Record 325: the marked box is red. Its color is"}
+{"prompt_id": "cf-0326", "split": "calibration", "text": "Record 326: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0327", "split": "train", "text": "Record 327: the marked box is red. Its color is"}
+{"prompt_id": "cf-0328", "split": "validation", "text": "Record 328: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0329", "split": "validation", "text": "Record 329: the marked box is red. Its color is"}
+{"prompt_id": "cf-0330", "split": "test", "text": "Record 330: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0331", "split": "validation", "text": "Record 331: the marked box is green. Its color is"}
+{"prompt_id": "cf-0332", "split": "test", "text": "Record 332: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0333", "split": "calibration", "text": "Record 333: the marked box is green. Its color is"}
+{"prompt_id": "cf-0334", "split": "test", "text": "Record 334: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0335", "split": "train", "text": "Record 335: the marked box is green. Its color is"}
+{"prompt_id": "cf-0336", "split": "train", "text": "Record 336: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0337", "split": "train", "text": "Record 337: the marked box is green. Its color is"}
+{"prompt_id": "cf-0338", "split": "validation", "text": "Record 338: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0339", "split": "test", "text": "Record 339: the marked box is green. Its color is"}
+{"prompt_id": "cf-0340", "split": "calibration", "text": "Record 340: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0341", "split": "train", "text": "Record 341: the marked box is black. Its color is"}
+{"prompt_id": "cf-0342", "split": "train", "text": "Record 342: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0343", "split": "calibration", "text": "Record 343: the marked box is black. Its color is"}
+{"prompt_id": "cf-0344", "split": "train", "text": "Record 344: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0345", "split": "train", "text": "Record 345: the marked box is black. Its color is"}
+{"prompt_id": "cf-0346", "split": "calibration", "text": "Record 346: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0347", "split": "train", "text": "Record 347: the marked box is black. Its color is"}
+{"prompt_id": "cf-0348", "split": "validation", "text": "Record 348: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0349", "split": "validation", "text": "Record 349: the marked box is black. Its color is"}
+{"prompt_id": "cf-0350", "split": "train", "text": "Record 350: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0351", "split": "test", "text": "Record 351: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0352", "split": "test", "text": "Record 352: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0353", "split": "validation", "text": "Record 353: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0354", "split": "calibration", "text": "Record 354: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0355", "split": "train", "text": "Record 355: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0356", "split": "calibration", "text": "Record 356: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0357", "split": "calibration", "text": "Record 357: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0358", "split": "validation", "text": "Record 358: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0359", "split": "train", "text": "Record 359: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0360", "split": "validation", "text": "Record 360: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0361", "split": "validation", "text": "Record 361: the marked box is red. Its color is"}
+{"prompt_id": "cf-0362", "split": "test", "text": "Record 362: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0363", "split": "validation", "text": "Record 363: the marked box is red. Its color is"}
+{"prompt_id": "cf-0364", "split": "test", "text": "Record 364: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0365", "split": "test", "text": "Record 365: the marked box is red. Its color is"}
+{"prompt_id": "cf-0366", "split": "test", "text": "Record 366: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0367", "split": "train", "text": "Record 367: the marked box is red. Its color is"}
+{"prompt_id": "cf-0368", "split": "validation", "text": "Record 368: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0369", "split": "validation", "text": "Record 369: the marked box is red. Its color is"}
+{"prompt_id": "cf-0370", "split": "validation", "text": "Record 370: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0371", "split": "calibration", "text": "Record 371: the marked box is green. Its color is"}
+{"prompt_id": "cf-0372", "split": "train", "text": "Record 372: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0373", "split": "test", "text": "Record 373: the marked box is green. Its color is"}
+{"prompt_id": "cf-0374", "split": "validation", "text": "Record 374: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0375", "split": "train", "text": "Record 375: the marked box is green. Its color is"}
+{"prompt_id": "cf-0376", "split": "validation", "text": "Record 376: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0377", "split": "calibration", "text": "Record 377: the marked box is green. Its color is"}
+{"prompt_id": "cf-0378", "split": "validation", "text": "Record 378: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0379", "split": "train", "text": "Record 379: the marked box is green. Its color is"}
+{"prompt_id": "cf-0380", "split": "validation", "text": "Record 380: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0381", "split": "train", "text": "Record 381: the marked box is black. Its color is"}
+{"prompt_id": "cf-0382", "split": "calibration", "text": "Record 382: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0383", "split": "test", "text": "Record 383: the marked box is black. Its color is"}
+{"prompt_id": "cf-0384", "split": "test", "text": "Record 384: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0385", "split": "train", "text": "Record 385: the marked box is black. Its color is"}
+{"prompt_id": "cf-0386", "split": "test", "text": "Record 386: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0387", "split": "validation", "text": "Record 387: the marked box is black. Its color is"}
+{"prompt_id": "cf-0388", "split": "validation", "text": "Record 388: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0389", "split": "train", "text": "Record 389: the marked box is black. Its color is"}
+{"prompt_id": "cf-0390", "split": "validation", "text": "Record 390: Alice lives in Rome. The answer is"}
+{"prompt_id": "cf-0391", "split": "train", "text": "Record 391: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0392", "split": "test", "text": "Record 392: Carol lives in Berlin. The answer is"}
+{"prompt_id": "cf-0393", "split": "test", "text": "Record 393: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0394", "split": "validation", "text": "Record 394: Eve lives in Dublin. The answer is"}
+{"prompt_id": "cf-0395", "split": "validation", "text": "Record 395: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0396", "split": "test", "text": "Record 396: Grace lives in Toronto. The answer is"}
+{"prompt_id": "cf-0397", "split": "train", "text": "Record 397: the marked box is orange. Its color is"}
+{"prompt_id": "cf-0398", "split": "test", "text": "Record 398: Ivan lives in Prague. The answer is"}
+{"prompt_id": "cf-0399", "split": "train", "text": "Record 399: the marked box is orange. Its color is"}
